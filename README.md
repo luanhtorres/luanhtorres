@@ -1,7 +1,7 @@
 ### Prazer! Meu nome é Luan Torres 👋
 
 - 🔭 Ainda não trabalho na área
-- 🌱 Atualmente comecei a estudar Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente comecei a estudar Análise e Desenvolvimento de Sistemas e estou no primeiro semestre
 - 🤔 Sempre em busca de coisas novas para aprender
 
 <div align="center">
