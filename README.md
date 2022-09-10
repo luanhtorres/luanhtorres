@@ -22,7 +22,7 @@
  
 <div> 
   
-  <a href="https://www.linkedin.com/in/luan-torres-b991baab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_unblank"></a> 
+  <a href="https://www.linkedin.com/in/luan-h-torres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_unblank"></a> 
   
    ![Snake animation](https://github.com/luanhtorres/luanhtorres/blob/output/github-contribution-grid-snake.svg)
   
