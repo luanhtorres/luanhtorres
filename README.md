@@ -2,7 +2,7 @@
 
 - 🔭 Ainda não trabalho na área, porém estou procurando vaga de estágio.
 - 🌱 Atualmente comecei a estudar Análise e Desenvolvimento de Sistemas e estou no segundo semestre.
-- 🤔 Estudando Python, HTML, CSS, JavaScript.
+- 🤔 Estudando Python, C#, HTML, CSS.
 
 <div align="center">
   <a href="https://github.com/luanhtorres">
