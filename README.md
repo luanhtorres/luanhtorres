@@ -1,8 +1,8 @@
 ### Prazer! Meu nome é Luan Torres 👋
 
 - 🔭 Atualmente estagiando na Ambev Global Tech
-- 🌱 Atualmente comecei a estudar Análise e Desenvolvimento de Sistemas e estou no terceiro semestre.
-- 🤔 Estudando Python, C#, HTML, CSS.
+- 🌱 Comecei a estudar Análise e Desenvolvimento de Sistemas e estou no terceiro semestre.
+- 🤔 Estudando Python, C#
 
 <div align="center">
   <a href="https://github.com/luanhtorres">
