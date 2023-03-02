@@ -1,7 +1,7 @@
 ### Prazer! Meu nome é Luan Torres 👋
 
-- 🔭 Ainda não trabalho na área, porém estou procurando vaga de estágio.
-- 🌱 Atualmente comecei a estudar Análise e Desenvolvimento de Sistemas e estou no segundo semestre.
+- 🔭 Atualmente estagiando na Ambev Global Tech
+- 🌱 Atualmente comecei a estudar Análise e Desenvolvimento de Sistemas e estou no terceiro semestre.
 - 🤔 Estudando Python, C#, HTML, CSS.
 
 <div align="center">
